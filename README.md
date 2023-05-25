@@ -1,4 +1,4 @@
-# Face_Mask_Detection
+# AI-Face-Mask-Detection
 
 Directory Structure and description of content:
 
